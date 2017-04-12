@@ -1,0 +1,9 @@
+Para la elaboración de la web he optado por usar etiquetas HTML5 como header o nav, tanto en la página de Covadonga como en la de los lagos,
+para esta ultima he usado también la etiqueta div con atributos float.  También he usado etiquetas de marcado como strong o p.
+En la página de Covadonga decidí hacer un menú para navegar con la web a modo de indice. 
+
+He usado una hoja de estilo CSS para darle color y forma a las webs.
+
+La web contiene una tabla con varias fotos y un formulario a modo de pequeña encuesta. 
+
+También he incluido comentarios dentro del código HTML para diferenciar las partes de cada página.
